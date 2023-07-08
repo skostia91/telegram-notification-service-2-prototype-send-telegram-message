@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    port: 5672
+
+rabbitmq:
+  queue: telegram-notifications-queue
